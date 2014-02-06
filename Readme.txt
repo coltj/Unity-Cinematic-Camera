@@ -1,1 +1,1 @@
-Cinematic camera, which can be integrated into the Unity3D
+Cinematic camera, which can be integrated into the Unity3D editor.
